@@ -1,5 +1,7 @@
 # gateway
 
+# nom: JANE DIAFOUKA
+
 This application was generated using JHipster 8.7.3, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v8.7.3](https://www.jhipster.tech/documentation-archive/v8.7.3).
 
 This is a "gateway" application intended to be part of a microservice architecture, please refer to the [Doing microservices with JHipster][] page of the documentation for more information.
